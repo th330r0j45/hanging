@@ -1,9 +1,7 @@
 
 
 let words:string[] = [
-    'MATEO',
-    'CORAL',
-    'LAURA',
+    'PAPAYA',
 ]
 
 export function getRandomWord() {
